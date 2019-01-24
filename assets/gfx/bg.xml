@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="bg.jpg" type="bitmap" width="1024" height="2048" pixelformat="RGBA_8888" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:ddb9c4552f80e54f20143ed29444ac65$ -->
+    <textureregion id="0" src="game_bg.jpg" x="2" y="804" width="960" height="800" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="800"/>
+    <textureregion id="1" src="op_bg.jpg" x="2" y="2" width="960" height="800" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="960" srcheight="800"/>
+</texture>
